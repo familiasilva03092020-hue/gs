@@ -1,7 +1,33 @@
-This is a clone of Infinite Mario, written in JavaScript for web browsers using HTML5.
+==============================
+       MARIO FAN GAME
+==============================
 
-A good demonstration of what can be accomplished with the Canvas and Audio elements.
+Autor: [Heitor caetano da silva ]  
+Versão: 1.0  
+Data: 2025
 
-Background music currently does not work in any browser besides Firefox 4. I think. There were too many problems with other browsers.
+Descrição:
+Este é um fangame inspirado no clássico Mario. Todo o conteúdo deste jogo foi criado como homenagem, sem fins lucrativos. Qualquer semelhança com jogos oficiais é intencional apenas para fins de diversão.
 
-Ported from the Java version by Notch (Markus Persson).
+Controles:
+- **PC**: 
+  - Movimento: setas para cima para baixo para esquerda e paraa direita
+  - Pulo: Barra de espaço
+  - Ataque: Clique esquerdo do mouse
+- **Celular**:
+  - Controle virtual na tela
+  - Suporta 1 a 2 joysticks conectados
+  - Botões de ação na tela
+
+Aviso de Direitos Autorais:
+Todos os personagens, cenários e elementos originais de Mario pertencem à Nintendo. Este projeto é apenas um fangame educativo e recreativo. Não é permitido vender ou distribuir comercialmente este jogo.
+
+Instalação:
+1. Extraia todos os arquivos do ZIP para uma pasta.
+2. Abra o arquivo `game.html` ou execute o `main.py` (dependendo da versão).
+3. Divirta-se!
+
+Agradecimentos:
+- Agradecemos à comunidade de desenvolvimento de fangames e aos tutoriais que ajudaram na criação deste projeto.
+
+==============================
